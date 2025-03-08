@@ -396,8 +396,8 @@ article .icon {
 
 .project-img {
   border-radius: 2rem;
-  width: 90%;
-  height: 90%;
+  width: 45%;
+  height: 45%;
 }
 
 .project-title {
@@ -415,7 +415,7 @@ article .icon {
   box-shadow: 5px 5px 4px rgba(0, 0, 0, 0.1);
 }
 
-/* Seção Contatos */
+/* Seï¿½ï¿½o Contatos */
 
 #contact {
   display: flex;
