@@ -369,7 +369,7 @@ hr {
   flex-wrap: wrap;
   flex-direction: row;
   gap: 2.5rem;
-  justify-content: left;
+  justify-content: center;
 }
 .article-container-img {
   display: flex;
