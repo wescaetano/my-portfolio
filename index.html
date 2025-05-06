@@ -49,8 +49,15 @@
       <p class="section__text__p2"> Desenvolvedor Web</p>
 
       <div class="button-container">
-        <button class="btn-color-2" onclick="window.open('./assets/cv-weslley.pdf')">Download CV</button>
-      <button class="btn-color-1" onclick="location.href='./#contact'">Contatos</button>
+        <div class="dropdown">
+          <button class="btn-color-2">Download CV</button>
+          <div class="dropdown-content">
+            <a href="./assets/cv-weslley-pt.pdf" target="_blank">Currículo em Português</a>
+            <a href="./assets/cv-weslley-en.pdf" target="_blank">Resume in English</a>
+          </div>
+        </div>
+        
+        <button class="btn-color-1" onclick="location.href='./#contact'">Contatos</button>
       </div>
 
       <div id="socials-container">
